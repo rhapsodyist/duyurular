@@ -6,6 +6,6 @@
                 <meta charset="UTF-8">
             </head>
             <body>
-                <div id="mydiv">WhatsApp !</div>
+                <div id="mydiv">WhatsApp  öööşğç !</div>
             </body>
         </html>
