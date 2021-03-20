@@ -10,19 +10,19 @@
                 <meta charset="UTF-8">
             </ha1>
             <h2>
-                <title> Hi Title ! </title>
+                <title>CANLI DERS TANIMLAMA SAATLERİ DEĞİŞTİ</title>
                 <meta charset="UTF-8">
             </h2>
             <ha2>
-                <title> Hi Title ! </title>
+                <title>Tüm sınıflar için artık 08.30-20.20 aralığında canlı ders tanımlanabilecek</title>
                 <meta charset="UTF-8">
             </ha2>
             <h3>
-                <title> Hi Title ! </title>
+                <title>Bakan Selçuk: EBA artık yurt dışındaki Türklerin de hizmetinde olacak </title>
                 <meta charset="UTF-8">
             </h3>
             <ha3>
-                <title> Hi Title ! </title>
+                <title>Bakan Selçuk; yurt dışındaki Türk öğrencilerin de eğitim materyali desteği talebinde bulunduklarını bildiren Selçuk, "Almanya'ya, Avusturya'ya, İtalya'ya, Fransa'ya yani hangi ülkede Türk okullarımız istiyorsa EBA'yı açtık. KKTC'nin tüm öğretmenlerine ve öğrencilerine de açtık. Şimdi EBA'nın kullanımı için Azerbaycan ile de bir çalışma içindeyiz. Kosova'dan da talep var. EBA artık yurt dışındaki Türklerin de hizmetinde olacak. EBA'da yurt dışındaki Türkler için hem ikinci dil olarak Türkçe'nin öğretimi hem de akademik destek noktasında ciddi bir faaliyet oluşturuyoruz. EBA içeriklerini aynı zamanda eğitim fakülteleri öğrencileri ve yüksek lisans öğrencileri için de açtık. EBA, artık uzaktan eğitimin ortak paydası haline geldi" diye konuştu. https://www.trthaber.com/haber/gundem/bakan-selcuk-eba-artik-yurt-disindaki-turklerin-de-hizmetinde-olacak-566065.html</title>
                 <meta charset="UTF-8">
             </ha3>
         </html>
