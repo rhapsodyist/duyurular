@@ -18,7 +18,7 @@
                 <meta charset="UTF-8">
             </ha2>
             <h3>
-                <title>Bakan Selçuk: EBA artık yurt dışındaki Türklerin de hizmetinde olacak </title>
+                <title>Bakan Selçuk: EBA ARTIK YURTDIŞINDAKİ TÜRKLERİN DE HİZMETİNDE OLACAK </title>
                 <meta charset="UTF-8">
             </h3>
             <ha3>
