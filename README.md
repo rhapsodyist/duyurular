@@ -2,20 +2,19 @@
         <!DOCTYPE html>
         <html>
             <h1>
-                <title>UZAKTAN EĞİTİME ARA</title>
+                <title>SINAVLAR YÜZ YÜZE</title>
                 <meta charset="UTF-8">
             </h1>   
             <ha1>
-                <title>Milli Eğitim Bakanlığı, gönderilen yazı nedeniyle öğretmenlerin de idari izinli sayılacağını ve 10-11-12 Mayıs’ta MEB’e bağlı tüm resmi ve özel okullarda uzaktan eğitime ara verildiğini duyurdu.</title>
+                <title>Seçmeli dersler dahil bütün derslerden sadece bir sınav notu karneye yansıtılacak. Sınavlar okul ortamında ve yüz yüze yapılacak. Öğrencilerin sınavları 2020-2021 eğitim öğretim yılı ikinci dönem başından 26 Mart 2021 tarihine kadar işlenen konu ve kazanımları kapsayacak şekilde, 18 Haziran 2021 tarihine kadar planlanarak uygulanacak. Farklı bir ilde bulunmaları durumunda öğrenciler, sınavlara bulundukları yerlerde aynı okul türündeki okullarda girebilecekler. Bu kapsamda, okulların gerekli hazırlık ve planlamaları yapabilmeleri için öğrenci velileri, 26 Mayıs 2021 Çarşamba gününe kadar taleplerini bulundukları ildeki ilgili okul müdürlüğüne bir dilekçe ile iletecek, öğrencilerin öğrenim gördüğü okul müdürlüğünü de bu konuda bilgilendirecek.</title>
                 <meta charset="UTF-8">
             </ha1>
             <h2>
-                <title>KARNELER 2 TEMMUZ’DA VERİLECEK</title>
+                <title>UZAKTAN EĞİTİME ARA</title>
                 <meta charset="UTF-8">
             </h2>
             <ha2>
-                <title>Okulların açık olacağı tarihi de açıklayan Bakan Selçuk, “Okullar 2 Temmuz’a kadar açık olacak. Karneler de bu tarihte verilecek. Arzumuz karneleri çocuklarımıza yüz yüze vermek. Ancak böyle bir durum söz konusu olmazsa karneleri dijital olarak vereceğiz” ifadelerini kullandı.
-
+                <title>Milli Eğitim Bakanlığı, gönderilen yazı nedeniyle öğretmenlerin de idari izinli sayılacağını ve 10-11-12 Mayıs’ta MEB’e bağlı tüm resmi ve özel okullarda uzaktan eğitime ara verildiğini duyurdu.
 </title>
                 <meta charset="UTF-8">
             </ha2>
