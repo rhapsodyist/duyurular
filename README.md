@@ -2,11 +2,13 @@
         <!DOCTYPE html>
         <html>
             <h1>
-                <title>BAKAN SELÇUK'TAN TELAFİ EĞİTİMİ AÇIKLAMASI</title>
+                <title>MEB'DEN TELAFİ EĞİTİMİ AÇIKLAMASI</title>
                 <meta charset="UTF-8">
             </h1>   
             <ha1>
-                <title>Milli Eğitim Bakanı Ziya Selçuk, pandemi sürecinde aksayan eğitim sürecinin telafi süreciyle ilgili açıklamasında “Eğitimde telafi uygulamasına hazırız. Büyük ve kapsamlı bir telafi süreciyle; akademik, sosyal duygusal ve fiziksel alanda olumsuz etkileri ortadan kaldıracağız. Haziran ayı itibariyle başlayacağımız çalışmalar 2021-2022 eğitim yılını da kapsayacak.” dedi.</title>
+                <title>Milli Eğitim Bakanlığı (MEB) Personel Genel Müdürü Ömer İnan, 2 Temmuz sonrasında başlayacak olan telafi dersleri hakkında sosyal medya hesabından bir paylaşım yaptı.
+
+Genel Müdür İnan, yaptığı paylaşımda, “Telafi programımızın ‘yaz dönemi’ kapsamında, isteyen öğretmen ve öğrencilerimize, ikamet veya tatil adreslerinde; sanatsal, sportif ve kültürel etkinlikler için imkânlar oluşturuyoruz. Öğretmenlerimiz, bu programlarda öngörülen ders saati üzerinden görev alabileceklerdir” ifadelerini kullandı.</title>
                 <meta charset="UTF-8">
             </ha1>
             <h2>
