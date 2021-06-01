@@ -2,13 +2,15 @@
         <!DOCTYPE html>
         <html>
             <h1>
-                <title>MEB'DEN TELAFİ EĞİTİMİ AÇIKLAMASI</title>
+                <title>KARNELER 18 HAZİRAN'DA VERİLMEYE BAŞLANACAK</title>
                 <meta charset="UTF-8">
             </h1>   
             <ha1>
-                <title>Milli Eğitim Bakanlığı (MEB) Personel Genel Müdürü Ömer İnan, 2 Temmuz sonrasında başlayacak olan telafi dersleri hakkında sosyal medya hesabından bir paylaşım yaptı.
+                <title>Bakan Selçuk "18 Haziran itibaren karnelerimizi açıyoruz. Dileyen 18 Haziran'da karnesine ulaşabilecek" diye konuştu.
 
-Genel Müdür İnan, yaptığı paylaşımda, “Telafi programımızın ‘yaz dönemi’ kapsamında, isteyen öğretmen ve öğrencilerimize, ikamet veya tatil adreslerinde; sanatsal, sportif ve kültürel etkinlikler için imkânlar oluşturuyoruz. Öğretmenlerimiz, bu programlarda öngörülen ders saati üzerinden görev alabileceklerdir” ifadelerini kullandı.</title>
+"Yaz döneminde isteğe bağlı telafi programını başlatıyoruz" açıklamasında bulunan Selçuk, "Okullarımız 2 Temmuz'dan yeni eğitim-öğretim yılının başlayacağı tarihe kadar okulların fiziksel imkanlarından faydalanmak isteyen öğrencilerimiz için açık tutulacak" dedi.
+
+Milli Eğitim Bakanı Selçuk, "Yaz boyu okullarımızda çocuklarımızı ağırlayacağız, isteyen öğrencilerimize fiziksel etkinlikler, isteyen öğrencilerimize akademik programlar sunabileceğiz" diye konuştu.</title>
                 <meta charset="UTF-8">
             </ha1>
             <h2>
@@ -21,13 +23,11 @@ Genel Müdür İnan, yaptığı paylaşımda, “Telafi programımızın ‘yaz 
                 <meta charset="UTF-8">
             </ha2>
             <h3>
-                <title>KARNELER 2 TEMMUZ’DA VERİLECEK</title>
+                <title>OKULLAR YAZ BOYU AÇIK TUTULACAK</title>
                 <meta charset="UTF-8">
             </h3>
             <ha3>
-                <title>Bakan Selçuk, bir öğrencinin “Hocam artık tüm günümüzü ağır bir şekilde derslere vermek yerine günün yarısında kendi yeteneklerimizi fark edebileceğimiz etkinlikler ve sanatsal alanlarla uğraşsak?” sorusuna cevap verdi.
-
-Bakan Selçuk, yanıtında “Aynı fikirdeyim. Bu yüzden yeni ortaöğretim tasarımında HEY saatleri uygulanacak. Hayalinize, spor-sanat etkinliklerinize ve hayatın kendisine daha fazla vakit ayırabilin diye” ifadelerini kullandı.
+                <title>18 Haziran- 2 Temmuz aralığında okullarımız çalışmalarını bu planlar doğrultusunda uygulamaya başlayacaklar. Okullarımız 2 Temmuz'dan, yeni eğitim-öğretim yılının başlayacağı tarihe kadar okulların fiziksel imkanlarından faydalanmak isteyen öğrencilerimiz için de açık tutulacak. Yaz boyu okullarımızda çocuklarımızı ağırlayacağız, isteyen öğrencilerimize fiziksel etkinlikler, isteyen öğrencilerimize akademik programlar sunabileceğiz. Öğretmenlerimiz de bu programlarda öngörülen ders saati üzerinden görev alabilecekler, tabii isterlerse."
 </title>
                 <meta charset="UTF-8">
             </ha3>
