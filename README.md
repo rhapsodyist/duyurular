@@ -2,23 +2,31 @@
         <!DOCTYPE html>
         <html>
             <h1>
-                <title>KARNELER 18 HAZİRAN'DA VERİLMEYE BAŞLANACAK</title>
+                <title>TELAFİ EĞİTİMİ PLANI</title>
                 <meta charset="UTF-8">
             </h1>   
             <ha1>
-                <title>Bakan Selçuk "18 Haziran itibaren karnelerimizi açıyoruz. Dileyen 18 Haziran'da karnesine ulaşabilecek" diye konuştu.
+                <title>Telafi eğitim yapılan açıklamaya göre okul öncesi, ilköğretim, ortaöğretim ve özel eğitim okullarında öğrenim gören öğrenciler için 5 Temmuz - 31 Ağustos 2021 tarihleri arasında gerçekleşecek.
 
-"Yaz döneminde isteğe bağlı telafi programını başlatıyoruz" açıklamasında bulunan Selçuk, "Okullarımız 2 Temmuz'dan yeni eğitim-öğretim yılının başlayacağı tarihe kadar okulların fiziksel imkanlarından faydalanmak isteyen öğrencilerimiz için açık tutulacak" dedi.
+Bilimsel, sosyal, kültürel, sportif eğitim faaliyetleri ile etkinliklerin yapılacağı "Telafide Ben de Varım" programına, 21 Haziran-2 Temmuz arasında başvuru yapılabilecek. Eğitim faaliyetine başlanabilmesi için en az 12 kişilik öğrenci grubunun oluşması gerekecek. Özel eğitim öğrencileriyle ilgili faaliyetlerde alanın özelliği gereği sayı sınırlaması aranmayacak.
 
-Milli Eğitim Bakanı Selçuk, "Yaz boyu okullarımızda çocuklarımızı ağırlayacağız, isteyen öğrencilerimize fiziksel etkinlikler, isteyen öğrencilerimize akademik programlar sunabileceğiz" diye konuştu.</title>
+Milli Eğitim Bakanlığı (MEB) telafi eğitimi programının uygulama esaslarını belirledi.
+
+Milli Eğitim Bakanlığının telafi eğitimi programına, 21-Haziran-2 Temmuz arasında "telafidebendevarim.meb.gov.tr" adresinden başvuru yapılabilecek.
+
+Milli Eğitim Bakanı Ziya Selçuk imzasıyla illere gönderilen yazıda, 5 Temmuz-31 Ağustos arasında uygulanacak "Telafide Ben de Varım" yaz uygulaması programının uygulama esaslarına yer verildi.
+
+Program kapsamında okul, ilçe ve il genelinde gerçekleştirilecek bilimsel, sosyal, kültürel, sportif eğitim faaliyetleri ile etkinliklerin "https://telafidebendevarim.meb.gov.tr" adresinde yer aldığı bildirilen açıklamada, il genelinde düzenlenecek eğitim faaliyetleri için tüm kamu kurum ve kuruluşlarıyla iş birliği yapılarak tesislerin bedelsiz olarak kullandırılması, valiliklerce oluşturulacak kurul koordinasyonunda gerekli planlamaların yapılacağı belirtildi.
+
+Buna göre, 21 Haziran-2 Temmuz 2021 arasında başvuru, planlama iş ve işlemleri, 5 Temmuz-31 Ağustos arasında ülke genelinde Milli Eğitim Bakanlığına bağlı eğitim kurumlarında il milli eğitim müdürlükleri tarafından valiliklerin koordinasyonunda eğitim faaliyetleri yapılacak.</title>
                 <meta charset="UTF-8">
             </ha1>
             <h2>
-                <title>SINAVLAR YÜZ YÜZE</title>
+                <title>TELAFİ EĞİTİMİNE NASIL BAŞVURULUR?</title>
                 <meta charset="UTF-8">
             </h2>
             <ha2>
-                <title>Seçmeli dersler dahil bütün derslerden sadece bir sınav notu karneye yansıtılacak. Sınavlar okul ortamında ve yüz yüze yapılacak. Öğrencilerin sınavları 2020-2021 eğitim öğretim yılı ikinci dönem başından 26 Mart 2021 tarihine kadar işlenen konu ve kazanımları kapsayacak şekilde, 18 Haziran 2021 tarihine kadar planlanarak uygulanacak. Farklı bir ilde bulunmaları durumunda öğrenciler, sınavlara bulundukları yerlerde aynı okul türündeki okullarda girebilecekler. Bu kapsamda, okulların gerekli hazırlık ve planlamaları yapabilmeleri için öğrenci velileri, 26 Mayıs 2021 Çarşamba gününe kadar taleplerini bulundukları ildeki ilgili okul müdürlüğüne bir dilekçe ile iletecek, öğrencilerin öğrenim gördüğü okul müdürlüğünü de bu konuda bilgilendirecek.
+                <title>Milli Eğitim Bakanlığının telafi eğitimi programına, 21-Haziran-2 Temmuz arasında "telafidebendevarim.meb.gov.tr" adresinden başvuru yapılabilecek.
 </title>
                 <meta charset="UTF-8">
             </ha2>
