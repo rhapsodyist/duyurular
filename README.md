@@ -2,7 +2,7 @@
         <!DOCTYPE html>
         <html>
             <h1>
-                <title>TELAFİ EĞİTİMİİNDE SIKÇA SORULAN SORULAR</title>
+                <title>TELAFİ EĞİTİMİNDE SIKÇA SORULAN SORULAR</title>
                 <meta charset="UTF-8">
             </h1>   
             <ha1>
