@@ -13,11 +13,13 @@ Türkiye ve dünyadaki gidişe bakıyoruz. Kontrol artmaya başladı. Varyantlar
                 <meta charset="UTF-8">
             </ha1>
             <h2>
-                <title>TELAFİ EĞİTİMİNDE SIKÇA SORULAN SORULAR</title>
+                <title>MEB'DEN YÜZ YÜZE EĞİTİM TALİMATI</title>
                 <meta charset="UTF-8">
             </h2>
             <ha2>
-                <title>https://telafidebendevarim.meb.gov.tr/</title>
+                <title>2021-2022 Eğitim Öğretime Hazırlık Çalışmaları konulu resmi yazıda, okulların eğitim ve öğretime hazır hale getirilmesi istendi.
+
+Habertürk’ün haberine göre; 81 ile gönderilen yazıda, okul ve kurum binalarının girişlerinde öğrencilerin, öğretmenlerin ve tüm çalışanların maske ihtiyaçlarını gidermek için dizayn edilmiş, içinde günlük maskelerin bulundurulması, her öğrencinin ve okul çalışanlarının ihtiyaç halinde maskesini alıp değiştirebileceği, kirli ve temiz maskenin ayrı ayrı konulacağı kumbara, bölme veya kutuların hazırlanarak hizmete sunulması istendi.</title>
                 <meta charset="UTF-8">
             </ha2>
             <h3>
