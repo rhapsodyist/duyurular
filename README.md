@@ -2,44 +2,32 @@
         <!DOCTYPE html>
         <html>
             <h1>
-                <title>YÜZ YÜZE EĞİTİM 6 EYLÜL’DE BAŞLIYOR</title>
+                <title>2022 Yılı Karneler Ne Zaman Verilecek?</title>
                 <meta charset="UTF-8">
             </h1>   
             <ha1>
-                <title>*Tereddütsüz Eylül’de başlayacak gibi yönetiyoruz. 31 Ağustos’ta öğretmenlerin, 6 Eylül’den itibaren de öğrencilerin gelmesini bekliyoruz.
-             Milli Eğitim Bakanı Ziya Selçuk, katıldığı televizyon programında açıklamalarda bulundu. Yüz yüze eğitimin başlayacağı tarihi açıklayan Selçuk şu ifadeleri kullandı;
-
-Türkiye ve dünyadaki gidişe bakıyoruz. Kontrol artmaya başladı. Varyantlarla ilgili farklı çözüm senaryoları başladı. Türkiye’de de kontrol edilebilir düzeyde.</title>
+                <title>*2021-2022 Eğitim öğretim yılı 6 Eylül tarihi itibarıyla yüz yüze ve tam zamanlı olarak başladı.
+Milli Eğitim Bakanlığı daha önce yayınladığı çalışma takvimine göre öğrenciler, ilk ara tatilini Kasım ayında yaparken, ikinci ara tatil ise, Nisan ayında gerçekleşecek. 
+Milli Eğitim Bakanı Mahmut Özer, yeni eğitim öğretim yılının yüz yüze olarak devam etmesi için, gereken her türlü olanakların sağlanacağını duyurmuştu. Önümüzdeki günlerde vaka sayısında artış yaşansa bile, yeni dönemde okullar yüz yüze olarak devam edecek.
+Peki karneler ne zaman verilecek? 
+Yarıyıl tatili  "24 Ocak-4 Şubat", tarihleri arasında gerçekleşecek. Öğrenciler 1. dönem karnelerini, 24 Ocak Cuma günü yüz yüze olarak alacak.
+Yaz tatili ise, 17 Haziran Cuma günü başlayacak ve karneler okulun kapandığı ilk gün, yüz yüze olarak verilecek. </title>
                 <meta charset="UTF-8">
             </ha1>
             <h2>
-                <title>MEB'DEN YÜZ YÜZE EĞİTİM TALİMATI</title>
+                <title>.</title>
                 <meta charset="UTF-8">
             </h2>
             <ha2>
-                <title>2021-2022 Eğitim Öğretime Hazırlık Çalışmaları konulu resmi yazıda, okulların eğitim ve öğretime hazır hale getirilmesi istendi.
-
-Habertürk’ün haberine göre; 81 ile gönderilen yazıda, okul ve kurum binalarının girişlerinde öğrencilerin, öğretmenlerin ve tüm çalışanların maske ihtiyaçlarını gidermek için dizayn edilmiş, içinde günlük maskelerin bulundurulması, her öğrencinin ve okul çalışanlarının ihtiyaç halinde maskesini alıp değiştirebileceği, kirli ve temiz maskenin ayrı ayrı konulacağı kumbara, bölme veya kutuların hazırlanarak hizmete sunulması istendi.</title>
+                <title>.</title>
                 <meta charset="UTF-8">
             </ha2>
             <h3>
-                <title>TELAFİ EĞİTİMİ PLANI</title>
+                <title>.</title>
                 <meta charset="UTF-8">
             </h3>
             <ha3>
-                <title>Telafi eğitim yapılan açıklamaya göre okul öncesi, ilköğretim, ortaöğretim ve özel eğitim okullarında öğrenim gören öğrenciler için 5 Temmuz - 31 Ağustos 2021 tarihleri arasında gerçekleşecek.
-
-Bilimsel, sosyal, kültürel, sportif eğitim faaliyetleri ile etkinliklerin yapılacağı "Telafide Ben de Varım" programına, 21 Haziran-2 Temmuz arasında başvuru yapılabilecek. Eğitim faaliyetine başlanabilmesi için en az 12 kişilik öğrenci grubunun oluşması gerekecek. Özel eğitim öğrencileriyle ilgili faaliyetlerde alanın özelliği gereği sayı sınırlaması aranmayacak.
-
-Milli Eğitim Bakanlığı (MEB) telafi eğitimi programının uygulama esaslarını belirledi.
-
-Milli Eğitim Bakanlığının telafi eğitimi programına, 21-Haziran-2 Temmuz arasında "telafidebendevarim.meb.gov.tr" adresinden başvuru yapılabilecek.
-
-Milli Eğitim Bakanı Ziya Selçuk imzasıyla illere gönderilen yazıda, 5 Temmuz-31 Ağustos arasında uygulanacak "Telafide Ben de Varım" yaz uygulaması programının uygulama esaslarına yer verildi.
-
-Program kapsamında okul, ilçe ve il genelinde gerçekleştirilecek bilimsel, sosyal, kültürel, sportif eğitim faaliyetleri ile etkinliklerin "https://telafidebendevarim.meb.gov.tr" adresinde yer aldığı bildirilen açıklamada, il genelinde düzenlenecek eğitim faaliyetleri için tüm kamu kurum ve kuruluşlarıyla iş birliği yapılarak tesislerin bedelsiz olarak kullandırılması, valiliklerce oluşturulacak kurul koordinasyonunda gerekli planlamaların yapılacağı belirtildi.
-
-Buna göre, 21 Haziran-2 Temmuz 2021 arasında başvuru, planlama iş ve işlemleri, 5 Temmuz-31 Ağustos arasında ülke genelinde Milli Eğitim Bakanlığına bağlı eğitim kurumlarında il milli eğitim müdürlükleri tarafından valiliklerin koordinasyonunda eğitim faaliyetleri yapılacak.
+                <title>.
 </title>
                 <meta charset="UTF-8">
             </ha3>
