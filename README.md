@@ -2,11 +2,11 @@
         <!DOCTYPE html>
         <html>
             <h1>
-                <title>Nisan ara tatil ne zaman?  İşte Ara tatil tarihleri </title>
+                <title>EBA Yardım </title>
                 <meta charset="UTF-8">
             </h1>   
             <ha1>
-                <title>İkinci dönem ara tatili 11 Nisan'da başlayacak, 15 Nisan'da sona erecek.</title>
+                <title>http://ders.eba.gov.tr/yardim-sss/</title>
                 <meta charset="UTF-8">
             </ha1>
             <h2>
