@@ -2,5 +2,5 @@
         <!DOCTYPE html>
         <html>
             <h1>
-                code-XXXXXXXXX-code
+                code-1234-code
         </html>
