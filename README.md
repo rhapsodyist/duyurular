@@ -2,6 +2,5 @@
         <!DOCTYPE html>
         <html>
             <h1>
-               rhapsodyistPassCode-1234-
-               rhapsodyistPassCode
+               rhapsodyistPassCode-1234-rhapsodyistPassCode
         </html>
